@@ -1,0 +1,11 @@
+C:\Users\jose antonio\Projeto\bin\Debug\netcoreapp3.1\Projeto.exe
+C:\Users\jose antonio\Projeto\bin\Debug\netcoreapp3.1\Projeto.deps.json
+C:\Users\jose antonio\Projeto\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.json
+C:\Users\jose antonio\Projeto\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.dev.json
+C:\Users\jose antonio\Projeto\bin\Debug\netcoreapp3.1\Projeto.dll
+C:\Users\jose antonio\Projeto\bin\Debug\netcoreapp3.1\Projeto.pdb
+C:\Users\jose antonio\Projeto\obj\Debug\netcoreapp3.1\Projeto.csprojAssemblyReference.cache
+C:\Users\jose antonio\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfoInputs.cache
+C:\Users\jose antonio\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfo.cs
+C:\Users\jose antonio\Projeto\obj\Debug\netcoreapp3.1\Projeto.dll
+C:\Users\jose antonio\Projeto\obj\Debug\netcoreapp3.1\Projeto.pdb
