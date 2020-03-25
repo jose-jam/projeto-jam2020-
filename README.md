@@ -1,7 +1,7 @@
 # projeto-jam2020-
 
-## Primera aula , lenguajen da programaçaon
+## Primera aula , Introduccion a tecnologia 
 
-##segunda aula , C#
+## segunda aula , logica programaçao
 
-## terceira aula , Github
+## terçeira aula , Versionamento de codigo 
